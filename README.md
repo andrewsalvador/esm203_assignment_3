@@ -1,2 +1,2 @@
-# esm203_assignment_3
+# esm206_assignment_3
 Make a really good graph and really bad graph
